@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"mod":["policy","rpc","sandbox","wasm_policy"]};
