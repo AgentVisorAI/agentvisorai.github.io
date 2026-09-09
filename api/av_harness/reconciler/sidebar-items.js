@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":["FinalizeError","FinalizeOutcome"],"fn":["prune_sealed_atif_blocking","spawn_reconciler"],"struct":["Finalizer","SessionLifecycleGuard","SessionLockTable"]};

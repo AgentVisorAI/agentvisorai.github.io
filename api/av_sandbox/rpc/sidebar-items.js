@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"constant":["MAX_JSON_DEPTH","MAX_PAYLOAD_BYTES"],"enum":["RpcError"],"fn":["authorization_error","depth_of","detectable_error_id","parse_tool_call","protocol_error","refuse_duplicate_json_keys"],"struct":["ToolCallRequest"]};
